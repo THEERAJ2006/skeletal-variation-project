@@ -36,3 +36,4 @@ jupyter notebook skeletal-variation.ipynb
 Project Insight
 
 This project demonstrates practical data analysis skills including data cleaning, normalization, and querying real-world structured datasets.
+
