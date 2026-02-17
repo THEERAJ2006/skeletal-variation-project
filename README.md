@@ -1,8 +1,8 @@
-﻿# skeletal-variation-project
- Overview
+Skeletal Variation Analysis using Pandas
+Overview
 
 This project analyzes anatomical differences between humans, birds, and mammals using Python and Pandas.
-The goal is to clean multiple datasets with different structures and perform comparative biological analysis.
+The objective is to clean and unify multiple datasets with different structures and perform comparative biological analysis.
 
 Key Tasks
 
@@ -28,3 +28,11 @@ Pandas
 
 Jupyter Notebook
 
+How to Run :
+
+pip install pandas jupyter
+jupyter notebook skeletal-variation.ipynb
+
+Project Insight
+
+This project demonstrates practical data analysis skills including data cleaning, normalization, and querying real-world structured datasets.
